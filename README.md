@@ -1,4 +1,6 @@
 # 2022-Spring-CS104-LOGIC
+**This Java code is used to generate the truth-table of a given number of letters. The code only generate some basic operations, if you have interest in adding some complex operations, feel free to improve the functionality of the code and contribute to this repository. If you find any bug in the code, you can contact me through QQ 619022098 or the mail 12013006@mail.sustech.edu.cn.  **
+
 The assignments for Intruduction to Mathematic Logic in 2022 spring
 I will introduce how to use my code and the meaning of each method in the following paragraphs.
 
